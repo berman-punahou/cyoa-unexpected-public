@@ -1,0 +1,126 @@
+    height: 100%;
+    width: 100%;
+}
+
+.row {
+    height: auto;
+}
+mark {background-color: blanchedalmond;
+}
+.blue-text {
+    color: black;
+}
+
+.white-text {
+    color: white;
+}
+
+#Top-Bar {
+    background-color: goldenrod;
+}
+
+#picbox {
+    background-color: aquamarine;
+}
+
+#box-a {
+    background-color: seagreen;
+}
+
+#box-b {
+    background-color: darkgreen;
+}
+
+#box-c {
+    background-color: lightcoral;
+}
+
+#box-d {
+    background-color: #689CCA;
+}
+
+#box-e {
+    background-color: #0047ab;
+}
+
+#box-f {
+    background-color: #aa2704;
+}
+
+#box-g {
+    background-color: #0d49c0;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.carousel-caption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    padding: 20px;
+    border: 2px solid black; /* Border around the text */
+    border-radius: 10px; /* Optional: rounded corners */
+    background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent background */
+}
+
+.blue-text {
+    color: blue; /* Text color */
+}
+
+
+/* General Styles */
+
+body {
+    background-color: #76AA0E;
+    margin: 1;
+    padding: 1;
+    font-family: "Cedarville Cursive", cursive;
+}
+
+
+
+/* Element Selector: Styling the main heading (h1) */
+
+
+
+/* Class selectors */
+ 
+.highlight-Reading {
+    background-color: aquamarine;
+}
+ 
+.highlight-Coding {
+    background-color: lightcyan;
+}
+ 
+.highlight-Running { 
+    color: #C84630;
+    background-color: royalblue;
+ }
+
+.highlight-Gaming {
+    background-color: palevioletred;
+}
+
+.highlight-Sleeping {
+    background-color: lightseagreen;
+}
+
+.cedarville-cursive-regular {
+  font-family: "Cedarville Cursive", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+/* ID Selectors */
+#cursive { 
+    font-size: 25px;
+    font-style: oblique;
+    font-weight: bolder;
+    text-shadow: 5px 3px 5px rgba(0, 0, 0, 0.5);
+ }

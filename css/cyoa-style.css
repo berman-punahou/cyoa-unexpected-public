@@ -1,0 +1,38 @@
+<<<<<<< HEAD
+jnmnm,nmn,mnmn/* The basic CSS for your CYOA project goes here. */
+=======
+/* The basic CSS for your CYOA project goes here. */
+.Class {
+
+}
+
+.playfair-display-IntroText {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color: darkred;
+}
+
+.Container {
+	background: black;
+	width: 500px;
+	height: 500px;	
+}
+
+div {
+  background-color: black;
+  width: 300px;
+  border: 15px black;
+  padding: 50px;
+  margin: 20px;
+}
+
+p {
+	color: yellow;
+}
+
+
+
+
+>>>>>>> 202fe8910377b5c45dca0bd3e46b24cd7de59e6e

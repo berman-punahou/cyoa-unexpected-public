@@ -1,0 +1,19 @@
+/* The basic CSS for your CYOA project goes here. */
+/*.Class {
+
+}*/
+
+.BackgroundImage {
+    color: green;
+}
+
+body {
+  background-color: yellow;
+}
+
+.playfair-display-unexpected {
+  font-family: "Playfair Display", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}

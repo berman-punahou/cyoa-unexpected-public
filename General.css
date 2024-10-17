@@ -1,0 +1,126 @@
+
+
+.row {
+    height: auto;
+}
+mark {background-color: blanchedalmond;
+}
+
+#Top-Bar {
+    background-color: goldenrod;
+}
+
+
+
+#ButtonImage {
+    background-color: black;
+    border: none;
+}
+
+.intro {
+    color: hotpink;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.carousel-caption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    padding: 20px;
+    border: 2px solid black; /* Border around the text */
+    border-radius: 10px; /* Optional: rounded corners */
+    background-color: black;
+}
+
+.updock-regular {
+  font-family: "Just Another Hand", cursive;
+  font-weight: 400;
+  font-style: normal;
+  padding: 20px;
+  border: 2px solid black; /* Border around the text */
+  border-radius: 10px; /* Optional: rounded corners */
+  background-color: black;
+  color: white;
+  font-size: 30px;
+}
+
+
+
+
+
+
+/* General Styles */
+
+
+
+/* Element Selector: Styling the main heading (h1) */
+
+
+
+/* Class selectors */
+
+.DeathImageButton {
+    background-color: black;
+    border: none;
+}
+
+.ImageButton {
+    background-color: gray;
+    border: none;
+}
+
+.ChoiceFont {
+  font-family: "Itim", cursive;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+
+.Choices {
+    background-color: darkred;
+}
+
+.ChoiceOne {
+    background-color: #78D5D7;
+    border: none;
+}
+
+.ChoiceTwo {
+    background-color: #6B717E;
+    border: none;
+}
+
+.ChoiceThree {
+    background-color: #0C1713;
+    border: none;
+    color: white;
+}
+
+.ChoiceSingle {
+    background-color: #AB2346;
+    border: purple;
+    width: 100%;
+    height: 200px;
+    text-decoration: none;
+}
+
+
+.death {
+  font-family: "Creepster", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color: darkred;
+}
+
+
+
+
+
